@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferencesTest</string>
+    <string name="insert_a_string_here">Insert a String here</string>
+    <string name="insert_a_number_here">Insert a Number here</string>
+    <string name="insert_a_boolean_here">Insert a Boolean here</string>
+    <string name="save">SAVE</string>
+</resources>
